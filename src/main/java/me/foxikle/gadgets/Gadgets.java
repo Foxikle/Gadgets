@@ -6,12 +6,10 @@ public final class Gadgets extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        this.saveResource("config.yml", false);
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 }
