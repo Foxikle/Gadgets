@@ -1,0 +1,7 @@
+name: Gadgets
+version: '${project.version}'
+main: me.foxikle.gadgets.Gadgets
+api-version: 1.18
+prefix: Gadgets
+authors: [ Foxikle ]
+description: A suite of fun mini games!
