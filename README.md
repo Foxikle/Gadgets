@@ -1,4 +1,4 @@
-# I have abandoned this project it it will not receive any further updates. I may make something similar in the future.
+# I have abandoned this project. It will not receive any further updates.
 
 
 
